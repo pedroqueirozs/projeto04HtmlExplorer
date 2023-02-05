@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Tela com anúncio sobre segurança de dados  .
--[Visite o projeto online]()
+-[Visite o projeto online](https://pedroqueirozs.github.io/projeto04HtmlExplorer/)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK] https://www.figma.com/file/TJUEKUpo5yaDRQPQtzfjvf/Explorer-(Copy)?node-id=16%3A106&t=rSZZQWl8ciLWoiXI-0. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
